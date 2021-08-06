@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a288f54b-7bb8-47b6-8d07-e4ee837837f6" name="Changes" comment="first" />
+    <list default="true" id="a288f54b-7bb8-47b6-8d07-e4ee837837f6" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/funcs.go" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
